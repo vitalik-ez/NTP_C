@@ -1,1 +1,3 @@
-# NTP_C
+# NTP_C_Python  
+
+Operating System: Ubuntu
